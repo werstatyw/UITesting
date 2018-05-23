@@ -11,6 +11,7 @@ namespace UITesting
     {
         public static void Main(string[] args)
         {
+			Test.
 			Console.ReadLine();
         }
     }
