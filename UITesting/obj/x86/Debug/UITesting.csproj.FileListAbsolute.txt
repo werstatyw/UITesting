@@ -1,0 +1,15 @@
+/home/wers4/Projects/UITesting/UITesting/obj/x86/Debug/UITesting.csprojResolveAssemblyReference.cache
+/home/wers4/Projects/UITesting/UITesting/obj/x86/Debug/UITesting.csproj.CoreCompileInputs.cache
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/chromedriver.exe
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/UITesting.exe
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/UITesting.pdb
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/nunit.framework.dll
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/WebDriver.dll
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/WebDriver.Support.dll
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/nunit.framework.pdb
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/nunit.framework.xml
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/WebDriver.xml
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/WebDriver.Support.xml
+/home/wers4/Projects/UITesting/UITesting/obj/x86/Debug/UITesting.exe
+/home/wers4/Projects/UITesting/UITesting/obj/x86/Debug/UITesting.pdb
+/home/wers4/Projects/UITesting/UITesting/bin/Debug/UITesting.exe.config

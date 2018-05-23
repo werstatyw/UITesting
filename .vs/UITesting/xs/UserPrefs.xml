@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5E36A9BA-3C1A-4575-AB4D-AA7D10CE472E}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="UITesting/Test.cs" Line="20" Column="32" />
+      <File FileName="UITesting/Program.cs" Line="18" Column="1" />
+      <File FileName="UITesting/app.config" Line="7" Column="17" />
+      <File FileName="UITesting/packages.config" Line="1" Column="1" />
+      <File FileName="UITesting/Framework/Core/Configuration.cs" Line="5" Column="6" />
+      <File FileName="UITesting/Framework/Core/Driver.cs" Line="44" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UITesting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
