@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{5E36A9BA-3C1A-4575-AB4D-AA7D10CE472E}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="UITesting/Test.cs">
     <Files>
-      <File FileName="UITesting/app.config" Line="7" Column="17" />
+      <File FileName="UITesting/app.config" Line="8" Column="1" />
       <File FileName="UITesting/packages.config" Line="1" Column="1" />
       <File FileName="UITesting/Framework/Core/Configuration.cs" Line="5" Column="6" />
       <File FileName="UITesting/Framework/Core/Driver.cs" Line="44" Column="8" />
-      <File FileName="UITesting/Test.cs" Line="29" Column="10" />
+      <File FileName="UITesting/Test.cs" Line="2" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UITesting PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
